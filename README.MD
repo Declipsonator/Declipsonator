@@ -12,3 +12,4 @@
 <p align = "center"><img src="https://activity-graph.herokuapp.com/graph?username=Declipsonator&theme=react-dark"></p>
 
 
+![Metrics](https://metrics.lecoq.io/Declipsonator?template=classic&config.timezone=America%2FNew_York)
