@@ -1,6 +1,6 @@
 # Declipsonator
 - Code Enthusiast
-- Mainly use java and python
+- Java and Python user
 # Projects
 - [Meteor Tweaks](https://github.com/Declipsonator/Meteor-Tweaks)
 - [Troll Addon](https://github.com/Declipsonator/Troll-Addon)
