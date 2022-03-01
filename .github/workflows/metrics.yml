@@ -65,3 +65,4 @@ jobs:
           plugin_repositories_batch: 100
           plugin_stars: yes
           plugin_stars_limit: 4
+          config_display: large
