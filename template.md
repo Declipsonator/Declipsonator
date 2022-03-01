@@ -10,3 +10,4 @@ My projects have been downloaded approximately {downloads} times
 <div align="center">
    <a href="#!"><img alt="Metrics" src="https://raw.githubusercontent.com/Declipsonator/Declipsonator/master/github-metrics.svg"></a>
 </div>
+Last Updated: {last_updated}
