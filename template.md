@@ -2,7 +2,7 @@
 - Code Enthusiast
 - Java and Python user
 # Projects
-{}
+{projects}
 
 # Total Downloads
 My projects have been downloaded approximately {downloads} times 
