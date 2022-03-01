@@ -3,10 +3,13 @@
 - Java and Python user
 # Projects
 - [Meteor Tweaks](https://github.com/Declipsonator/Meteor-Tweaks)
+- [Recipe Unlocker](https://github.com/Declipsonator/Recipe-Unlocker)
+- [Server Info](https://github.com/Declipsonator/Server-Info)
 - [Troll Addon](https://github.com/Declipsonator/Troll-Addon)
-- Things revolving around [Meteor Client](https://github.com/MeteorDevelopment/meteor-client)
 
+
+# Total Downloads
+My projects have been downloaded approximately 1063 times 
 # Me
-<p align="center">
- <img src="https://metrics.lecoq.io/Declipsonator?template=classic&isocalendar=1&languages=1&stars=1&stargazers=1&activity=1&achievements=1&notable=1&lines=1&repositories=1&habits=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=10&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&stargazers.charts.type=classic&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=America%2FNew_York&config.display=large"/>
-  </p>
+<img align="center" src="/github-metrics.svg" alt="Metrics">
+Last Updated: 2022-03-01 23:08 (EST)
