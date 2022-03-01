@@ -1,14 +1,18 @@
 import requests
 from github import Github
 
+saved_projects = {}
 
-def get_github_downloads(user):
+
+def get_github_downloads(user, save_projects):
     counted_downloads = 0
     g = Github()
 
     user = g.get_user(user)
 
     for repo in user.get_repos():
+        if save_projects & repo.stargazers_count >= 1:
+            saved_projects.update({repo.name: repo.url})
         for release in repo.get_releases():
             for asset in release.get_assets():
                 counted_downloads += asset.download_count
@@ -16,7 +20,7 @@ def get_github_downloads(user):
     return counted_downloads
 
 
-def get_modrinth_downloads(user):
+def get_modrinth_downloads(user, save_projects):
     counted_downloads = 0
     url = "https://api.modrinth.com/v2/user/{}/projects".format(user)
     response = requests.get(url).json()
@@ -27,7 +31,7 @@ def get_modrinth_downloads(user):
     return counted_downloads
 
 
-def get_curseforge_downloads(user):
+def get_curseforge_downloads(user, save_projects):
     counted_downloads = 0
     url = "https://api.cfwidget.com/author/search/{}".format(user)
     response = requests.get(url).json()
@@ -44,8 +48,17 @@ def get_curseforge_downloads(user):
 
 total_downloads = 0
 
-total_downloads += get_github_downloads('Declipsonator')
-total_downloads += get_modrinth_downloads('Declipsonator')
-total_downloads += get_curseforge_downloads('dexlips')
+# total_downloads += get_github_downloads('Declipsonator', true)
+# total_downloads += get_modrinth_downloads('Declipsonator', false)
+# total_downloads += get_curseforge_downloads('dexlips', false)
 
-print(total_downloads)
+template = requests.get('https://raw.githubusercontent.com/Declipsonator/Declipsonator/main/template.md').text
+
+print(template.replace('{downloads}', str(total_downloads)).replace('{projects}', '- [Meteor Tweaks]('
+                                                                                  'https://github.com/Declipsonator'
+                                                                                  '/Meteor-Tweaks)\n- [Troll Addon]('
+                                                                                  'https://github.com/Declipsonator'
+                                                                                  '/Troll-Addon)\n- Things revolving '
+                                                                                  'around [Meteor Client]('
+                                                                                  'https://github.com'
+                                                                                  '/MeteorDevelopment/meteor-client)'))
