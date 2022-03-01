@@ -33,7 +33,7 @@ jobs:
           python3 --version
           python3 readme_update.py 
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          ACCESS_TOKEN: ${{secrets.ACCESS_TOKEN}}
 
       - name: Commit to the repo
         run: |
