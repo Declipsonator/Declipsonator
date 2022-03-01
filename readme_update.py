@@ -53,7 +53,7 @@ total_downloads += get_curseforge_downloads('dexlips', false)
 
 project_string = ''
 for project in saved_projects:
-  projct_string += '- [{}]({})\n'.format(project)
+    project_string += '- [{}]({})\n'.format(project)
 
 template = requests.get('https://raw.githubusercontent.com/Declipsonator/Declipsonator/main/template.md').text
 
