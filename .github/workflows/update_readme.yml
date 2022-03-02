@@ -38,6 +38,5 @@ jobs:
           git config user.name "Declipsonator"
           git config user.email "null"
           git add .
-          git commit -m 'Update README
-          ' || echo
+          git commit -m 'Update README' || echo
           git push
