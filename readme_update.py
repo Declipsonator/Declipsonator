@@ -63,7 +63,6 @@ total_downloads += get_curseforge_downloads('dexlips')
 
 template = requests.get('https://raw.githubusercontent.com/Declipsonator/Declipsonator/main/template.md').text
 
-tz = timezone('EST')
 template = template.replace('{downloads}', str(total_downloads))\
     .replace('{projects}', get_github_projects_string(saved_projects, 'Declipsonator'))\
     .replace('{last_updated}', datetime.utcnow().strftime('%Y-%m-%d %H:%M (UTC)'))
