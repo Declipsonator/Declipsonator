@@ -73,6 +73,6 @@ template = template.replace('{downloads}', str(total_downloads))\
 
 
 
-with open('README.MD', 'w', encoding='UTF-8') as f:
+with open('README.md', 'w', encoding='UTF-8') as f:
     f.write(template)
     f.close()
