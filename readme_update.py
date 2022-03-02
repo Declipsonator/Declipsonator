@@ -2,7 +2,6 @@ import requests
 from github import Github
 from datetime import datetime
 from os import getenv
-from pytz import timezone
 
 saved_projects = []
 g = Github('s', getenv('ACCESS_TOKEN'))
@@ -67,7 +66,7 @@ template = requests.get('https://raw.githubusercontent.com/Declipsonator/Declips
 tz = timezone('EST')
 template = template.replace('{downloads}', str(total_downloads))\
     .replace('{projects}', get_github_projects_string(saved_projects, 'Declipsonator'))\
-    .replace('{last_updated}', datetime.now().strftime('%Y-%m-%d %H:%M (EST)'))
+    .replace('{last_updated}', datetime.utcnow().strftime('%Y-%m-%d %H:%M (UTC)'))
 
 
 
