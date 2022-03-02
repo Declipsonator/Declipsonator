@@ -2,14 +2,14 @@
 - Code Enthusiast
 - Java and Python user
 # Projects
-- [Meteor Tweaks](https://github.com/Declipsonator/Meteor-Tweaks)
-- [Recipe Unlocker](https://github.com/Declipsonator/Recipe-Unlocker)
-- [Server Info](https://github.com/Declipsonator/Server-Info)
-- [Troll Addon](https://github.com/Declipsonator/Troll-Addon)
+- [Meteor Tweaks](https://github.com/Declipsonator/Meteor-Tweaks) - A Meteor Client Addon that adds tweaks to modules and settings.
+- [Recipe Unlocker](https://github.com/Declipsonator/Recipe-Unlocker) - Unlocks all the recipes in the Minecraft crafting table.
+- [Server Info](https://github.com/Declipsonator/Server-Info) - Upload of an old project I never finished.
+- [Troll Addon](https://github.com/Declipsonator/Troll-Addon) - The wonderful troll addon to Meteor Client.
 
 
 # Total Downloads
 All my mods have racked up approximately 1063 downloads
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2022-03-02 00:54 (UTC)
+Last Updated: 2022-03-02 01:04 (UTC)
