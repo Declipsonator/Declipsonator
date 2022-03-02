@@ -5,7 +5,7 @@
 {projects}
 
 # Total Downloads
-My projects have been downloaded approximately {downloads} times 
+All my mods have racked up approximately {downloads} 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
 Last Updated: {last_updated}
