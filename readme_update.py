@@ -4,6 +4,7 @@ from datetime import datetime
 from os import getenv
 
 saved_projects = []
+saved_descriptions = []
 g = Github('s', getenv('ACCESS_TOKEN'))
 
 
@@ -15,6 +16,7 @@ def get_github_downloads(user, save_projects):
     for repo in user.get_repos():
         if save_projects and repo.stargazers_count >= 1:
             saved_projects.append(repo.name)
+            saved_descriptions.append(repo.description)
         for release in repo.get_releases():
             for asset in release.get_assets():
                 counted_downloads += asset.download_count
@@ -50,8 +52,10 @@ def get_curseforge_downloads(user):
 
 def get_github_projects_string(projects, user):
     project_string = ''
+    i = 0
     for project in projects:
-        project_string += '- [{}](https://github.com/{}/{})\n'.format(project.replace('-', ' '), user, project)
+        project_string += '- [{}](https://github.com/{}/{}) - {}\n'.format(project.replace('-', ' '), user, project, saved_descriptions[i])
+        i += 1
     return project_string
 
 
