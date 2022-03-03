@@ -2,6 +2,7 @@
 - Code Enthusiast
 - Java and Python user
 # Projects
+- [copyshot](https://github.com/Declipsonator/copyshot) - Copies screenshots to your clipboard when you take them in Minecraft.
 - [Meteor Tweaks](https://github.com/Declipsonator/Meteor-Tweaks) - A Meteor Client Addon that adds tweaks to modules and settings.
 - [Recipe Unlocker](https://github.com/Declipsonator/Recipe-Unlocker) - Unlocks all the recipes in the Minecraft crafting table.
 - [Server Info](https://github.com/Declipsonator/Server-Info) - Upload of an old project I never finished.
@@ -9,14 +10,14 @@
 
 
 # Total Downloads
-All my mods have racked up approximately 1095 downloads \
+All my mods have racked up approximately 1097 downloads \
 \
 Top three:
-- Meteor Tweaks - 923 downloads  
+- Meteor Tweaks - 925 downloads  
 - Troll Addon - 142 downloads  
 - Recipe Unlocker - 30 downloads  
 
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2022-03-03 17:29 (UTC)
+Last Updated: 2022-03-03 18:04 (UTC)
