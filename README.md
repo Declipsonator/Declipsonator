@@ -10,6 +10,7 @@
 
 # Total Downloads
 All my mods have racked up approximately 1089 downloads \
+\
 Top three:
 - Meteor Tweaks - 917 downloads  
 - Troll Addon - 142 downloads  
@@ -18,4 +19,4 @@ Top three:
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2022-03-03 02:32 (UTC)
+Last Updated: 2022-03-03 02:36 (UTC)
