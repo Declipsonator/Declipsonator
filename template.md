@@ -6,7 +6,7 @@
 
 # Total Downloads
 All my mods have racked up approximately {downloads} downloads \
-Top 3 Most Downloaded:
+Top three:
 {top_three}
 
 # Me
