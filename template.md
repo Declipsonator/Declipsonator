@@ -5,7 +5,8 @@
 {projects}
 
 # Total Downloads
-All my mods have racked up approximately {downloads} downloads
+All my mods have racked up approximately {downloads} downloads \
+Top 3 Most Downloaded:
 {top_three}
 
 # Me
