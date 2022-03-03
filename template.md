@@ -6,6 +6,7 @@
 
 # Total Downloads
 All my mods have racked up approximately {downloads} downloads \
+\
 Top three:
 {top_three}
 
