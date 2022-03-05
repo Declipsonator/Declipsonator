@@ -10,14 +10,14 @@
 
 
 # Total Downloads
-All my mods have racked up approximately 1194 downloads \
+All my mods have racked up approximately 1195 downloads \
 \
 Top three:
 - Meteor Tweaks - 994 downloads  
-- Troll Addon - 151 downloads  
+- Troll Addon - 152 downloads  
 - Recipe Unlocker - 40 downloads  
 
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2022-03-05 07:08 (UTC)
+Last Updated: 2022-03-05 08:10 (UTC)
