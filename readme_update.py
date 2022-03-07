@@ -15,6 +15,7 @@ def get_github_downloads(user):
 
     for repo in user.get_repos():
         repo_download_count = 0
+        print(repo.name)
 
         for release in repo.get_releases():
             for asset in release.get_assets():
@@ -35,6 +36,7 @@ def get_modrinth_downloads(user):
 
     for mod in response:
         counted_downloads += mod.get('downloads')
+        print(mod.get('title'))
         saved_projects.append(
             [mod.get('title'), mod.get('description'), 0,
              'https://modrinth.com/' + mod.get('project_type') + '/' + mod.get('slug'), mod.get('downloads'),
@@ -51,9 +53,9 @@ def get_curseforge_downloads(user):
 
     for project in response.get('projects'):
         project_id = project.get('id')
-
         url = "https://api.cfwidget.com/{}".format(project_id)
         response = requests.get(url).json()
+        print(response.get('title'))
         counted_downloads += response.get('downloads').get('total')
         for gm_project in saved_projects:
             if gm_project[0].strip() == response.get('title').strip():
