@@ -5,7 +5,7 @@
 {projects}
 
 # Total Downloads
-All my mods have racked up approximately {downloads} downloads \
+My mods have around {downloads} downloads. \
 \
 Top three:
 {top_three}
