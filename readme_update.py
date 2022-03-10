@@ -106,7 +106,7 @@ template = requests.get('https://raw.githubusercontent.com/Declipsonator/Declips
 template = template.replace('{downloads}', str(total_downloads)) \
     .replace('{projects}', get_github_projects_string(saved_projects, 'Declipsonator')) \
     .replace('{last_updated}', datetime.utcnow().strftime('%Y-%m-%d %H:%M (UTC)')) \
-    .replace('{top_three}', get_most_downloaded_string(saved_projects))
+    .replace('{top_four}', get_most_downloaded_string(saved_projects))
 
 
 with open('README.md', 'w', encoding='UTF-8') as f:
