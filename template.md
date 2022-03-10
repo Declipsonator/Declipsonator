@@ -7,8 +7,8 @@
 # Total Downloads
 My mods have around {downloads} downloads. \
 \
-Top three:
-{top_three}
+Top Four:
+{top_four}
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
