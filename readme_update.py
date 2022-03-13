@@ -60,6 +60,8 @@ def get_curseforge_downloads(user):
         print(response.get('title'))
         counted_downloads += response.get('downloads').get('total')
         for gm_project in saved_projects:
+            if gm_project[5] == 'Github':
+                continue
             if gm_project[0].strip() == response.get('title').strip():
                 og_downs = gm_project[4]
                 gm_project[4] = gm_project[4] + response.get('downloads').get('total')
