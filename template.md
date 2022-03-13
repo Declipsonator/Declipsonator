@@ -7,7 +7,7 @@
 # Total Downloads
 My mods have around {downloads} downloads. \
 \
-Top Four:
+Rankings:
 {rankings}
 
 # Me
