@@ -8,7 +8,7 @@
 My mods have around {downloads} downloads. \
 \
 Top Four:
-{top_four}
+{rankings}
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
