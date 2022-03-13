@@ -19,6 +19,8 @@ def get_github_downloads(user):
 
         for release in repo.get_releases():
             for asset in release.get_assets():
+                print('{}, {}'.format(repo.name, asset))
+                
                 counted_downloads += asset.download_count
                 repo_download_count += asset.download_count
 
