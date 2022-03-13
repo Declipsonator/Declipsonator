@@ -4,22 +4,23 @@
 # Projects
 - [Copyshot](https://github.com/Declipsonator/Copyshot) - Copies screenshots to your clipboard when you take them in Minecraft.
 - [Meteor Tweaks](https://github.com/Declipsonator/Meteor-Tweaks) - A Meteor Client Addon that adds tweaks to modules and settings.
+- [Particle Blocker](https://github.com/Declipsonator/Particle-Blocker) - Minecraft mod with a gui to disable particles.
 - [Recipe Unlocker](https://github.com/Declipsonator/Recipe-Unlocker) - Unlocks all the recipes in the Minecraft crafting table.
 - [Server Info](https://github.com/Declipsonator/Server-Info) - Upload of an old project I never finished.
 - [Troll Addon](https://github.com/Declipsonator/Troll-Addon) - The wonderful troll addon to Meteor Client.
 
 
 # Total Downloads
-My mods have around 1527 downloads. \
+My mods have around 1531 downloads. \
 \
 Rankings:
-- Meteor Tweaks - 1205 downloads  
+- Meteor Tweaks - 1206 downloads  
 - Troll Addon - 181 downloads  
-- Recipe Unlocker - 94 downloads  
-- Copyshot - 45 downloads  
+- Recipe Unlocker - 95 downloads  
+- Copyshot - 47 downloads  
 - Particle Blocker - 2 downloads  
 
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2022-03-13 17:09 (UTC)
+Last Updated: 2022-03-13 18:09 (UTC)
