@@ -84,7 +84,9 @@ def get_most_downloaded_string(projects):
     download_count.sort(reverse=True)
     for project in projects:
         try:
-            for i in range(0, 4):
+            for  in range(0, len(download_count) - 1):
+                if download_count[i] <= 0:
+                    break
                 if project[4] == download_count[i]:
                     downloaded_string += '- {} - {} downloads  \n'.format(project[0].replace('-', ' '), project[4])
                     download_count[i] = -1
@@ -106,7 +108,7 @@ template = requests.get('https://raw.githubusercontent.com/Declipsonator/Declips
 template = template.replace('{downloads}', str(total_downloads)) \
     .replace('{projects}', get_github_projects_string(saved_projects, 'Declipsonator')) \
     .replace('{last_updated}', datetime.utcnow().strftime('%Y-%m-%d %H:%M (UTC)')) \
-    .replace('{top_four}', get_most_downloaded_string(saved_projects))
+    .replace('{rankings}', get_most_downloaded_string(saved_projects))
 
 
 with open('README.md', 'w', encoding='UTF-8') as f:
