@@ -89,7 +89,9 @@ def get_most_downloaded_string(projects):
     for project in projects:
         print(project)
         try:
-            for i in range(0, 5):
+            for i in range(0, len(download_count)):
+                if download_count[i] <= 0:
+                    continue
                 if project[4] == download_count[i]:
                     downloaded_string += '- {} - {} downloads  \n'.format(project[0].replace('-', ' '), project[4])
                     download_count[i] = -1
