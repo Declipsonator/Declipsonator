@@ -3,7 +3,7 @@
 - Java and Python user
 # Projects
 - [Copyshot](https://github.com/Declipsonator/Copyshot) - Copies screenshots to your clipboard when you take them in Minecraft.
-- [Instant Datapack](https://github.com/Declipsonator/Instant-Datapack) - Makes a global datapack folder in minecraft so you don't have to copy datapacks between worlds.
+- [Global Datapack](https://github.com/Declipsonator/Global-Datapack) - Makes a global datapack folder in minecraft so you don't have to copy datapacks between worlds.
 - [Meteor Tweaks](https://github.com/Declipsonator/Meteor-Tweaks) - A Meteor Client Addon that adds tweaks to modules and settings.
 - [Particle Blocker](https://github.com/Declipsonator/Particle-Blocker) - Minecraft mod with a gui to disable particles.
 - [Rain Growth](https://github.com/Declipsonator/Rain-Growth) - Makes Minecraft crops grow faster in the rain.
@@ -13,17 +13,17 @@
 
 
 # Total Downloads
-My mods have around 1752 downloads. \
+My mods have around 1756 downloads. \
 \
 Rankings:
 - Meteor Tweaks - 1256 downloads  
 - Troll Addon - 189 downloads  
 - Recipe Unlocker - 128 downloads  
-- Rain Growth - 81 downloads  
+- Rain Growth - 84 downloads  
 - Copyshot - 57 downloads  
-- Particle Blocker - 41 downloads  
+- Particle Blocker - 42 downloads  
 
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2022-03-17 16:11 (UTC)
+Last Updated: 2022-03-17 17:11 (UTC)
