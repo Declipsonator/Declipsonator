@@ -1,6 +1,9 @@
 # Declipsonator
 - Code Enthusiast
 - Java and Python user
+- Minecraft Mod Developer
+- Open Source Believer
+- Gnu GPL/LGPL License person
 # Projects
 - [Copyshot](https://github.com/Declipsonator/Copyshot) - Copies screenshots to your clipboard when you take them in Minecraft.
 - [Global Datapack](https://github.com/Declipsonator/Global-Datapack) - Makes a global datapack folder in minecraft so you don't have to copy datapacks between worlds.
@@ -13,18 +16,18 @@
 
 
 # Total Downloads
-My mods have around 1799 downloads. \
+My mods have around 1801 downloads. \
 \
 Rankings:
 - Meteor Tweaks - 1271 downloads  
 - Troll Addon - 193 downloads  
 - Recipe Unlocker - 132 downloads  
-- Rain Growth - 94 downloads  
+- Rain Growth - 95 downloads  
 - Copyshot - 57 downloads  
-- Particle Blocker - 51 downloads  
+- Particle Blocker - 52 downloads  
 - Global Datapacks - 1 downloads  
 
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2022-03-18 13:15 (UTC)
+Last Updated: 2022-03-18 14:06 (UTC)
