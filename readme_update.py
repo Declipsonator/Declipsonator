@@ -92,7 +92,7 @@ def get_most_downloaded_string(projects):
                if download_count[i] <= 0:
                    continue
                if saved_projects[p][4] == download_count[i]:
-                   print(saved_projects[p]
+                   print(saved_projects[p])
                    downloaded_string += '- {} - {} downloads  \n'.format(saved_projects[p][0].replace('-', ' '), saved_projects[p][4])
                    download_count[i] = -1
                    saved_projects.pop(p)
