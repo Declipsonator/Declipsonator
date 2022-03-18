@@ -86,6 +86,9 @@ def get_github_projects_string(projects, user):
 def get_most_downloaded_string(projects):
     downloaded_string = ''
     download_count.sort(reverse=True)
+    
+    for project in saved_projects:
+        print(project)
             
     for i in range(0, len(download_count)):
         for p in range(0, len(saved_projects)):
