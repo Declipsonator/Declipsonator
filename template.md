@@ -1,6 +1,9 @@
 # Declipsonator
 - Code Enthusiast
 - Java and Python user
+- Minecraft Mod Developer
+- Open Source Believer
+- Gnu GPL/LGPL License person
 # Projects
 {projects}
 
