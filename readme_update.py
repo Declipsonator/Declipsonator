@@ -68,7 +68,7 @@ def get_curseforge_downloads(user):
                 for i in range(0, len(download_count)):
                     if download_count[i] == og_downs:
                         download_count[i] = og_downs + response.get('downloads').get('total')
-
+                        break
 
 
     return counted_downloads
