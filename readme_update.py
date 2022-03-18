@@ -88,7 +88,7 @@ def get_most_downloaded_string(projects):
     download_count.sort(reverse=True)
             
     for i in range(0, len(download_count)):
-        for p in range(0, len(download_count)):
+        for p in range(0, len(saved_projects)):
                if download_count[i] <= 0:
                    continue
                if saved_projects[p][4] == download_count[i]:
