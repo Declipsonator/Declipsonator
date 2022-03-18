@@ -86,14 +86,13 @@ def get_github_projects_string(projects, user):
 def get_most_downloaded_string(projects):
     downloaded_string = ''
     download_count.sort(reverse=True)
-    for project in projects:
-        print(project)
             
     for i in range(0, len(download_count)):
         for p in range(0, len(download_count)):
                if download_count[i] <= 0:
                    continue
                if saved_projects[p][4] == download_count[i]:
+                   print(saved_projects[p]
                    downloaded_string += '- {} - {} downloads  \n'.format(saved_projects[p][0].replace('-', ' '), saved_projects[p][4])
                    download_count[i] = -1
                    saved_projects.pop(p)
