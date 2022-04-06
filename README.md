@@ -5,6 +5,7 @@
 - Open Source Believer
 - Gnu GPL/LGPL License person
 # Projects
+- [Chat Control](https://github.com/Declipsonator/Chat-Control) - Take back control of your server chat with filters and mutes.
 - [Copyshot](https://github.com/Declipsonator/Copyshot) - Copies screenshots to your clipboard when you take them in Minecraft.
 - [Global Datapack](https://github.com/Declipsonator/Global-Datapack) - Makes a global datapack folder in minecraft so you don't have to copy datapacks between worlds.
 - [Meteor Tweaks](https://github.com/Declipsonator/Meteor-Tweaks) - A Meteor Client Addon that adds tweaks to modules and settings.
@@ -16,16 +17,16 @@
 
 
 # Total Downloads
-My mods have around 3273 downloads. \
+My mods have around 3276 downloads. \
 \
 Rankings:
-- Meteor Tweaks - 1627 downloads  
+- Meteor Tweaks - 1628 downloads  
 - Rain Growth - 332 downloads  
 - Troll Addon - 310 downloads  
-- Recipe Unlocker - 274 downloads  
+- Recipe Unlocker - 275 downloads  
 - Global Datapacks - 256 downloads  
 - Copyshot - 244 downloads  
-- Particle Blocker - 223 downloads  
+- Particle Blocker - 224 downloads  
 - Chat Control - 7 downloads  
 
 
@@ -46,4 +47,4 @@ Pretty much everything I code is published for free so it would mean a lot
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2022-04-05 23:09 (UTC)
+Last Updated: 2022-04-06 00:42 (UTC)
