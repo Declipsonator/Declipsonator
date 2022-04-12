@@ -4,6 +4,7 @@
 - Minecraft Mod Developer
 - Open Source Believer
 - Gnu GPL/LGPL License person
+- Profile Visits: <img src="https://c.andyhoppe.com/1649759421" style="border:none" alt="Counter"/>
 # Projects
 - [Chat Control](https://github.com/Declipsonator/Chat-Control) - Take back control of your server chat with filters and mutes.
 - [Copyshot](https://github.com/Declipsonator/Copyshot) - Copies screenshots to your clipboard when you take them in Minecraft.
@@ -47,4 +48,4 @@ Pretty much everything I code is published for free so it would mean a lot
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2022-04-12 10:10 (UTC)
+Last Updated: 2022-04-12 10:34 (UTC)
