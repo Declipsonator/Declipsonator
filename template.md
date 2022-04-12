@@ -4,6 +4,7 @@
 - Minecraft Mod Developer
 - Open Source Believer
 - Gnu GPL/LGPL License person
+- Profile Visits: <img src="https://c.andyhoppe.com/1649759421" style="border:none" alt="Counter"/>
 # Projects
 {projects}
 
