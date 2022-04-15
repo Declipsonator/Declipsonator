@@ -15,21 +15,21 @@
 - [Recipe Unlocker](https://github.com/Declipsonator/Recipe-Unlocker) - Unlocks all the recipes in the Minecraft crafting table.
 - [Server Info](https://github.com/Declipsonator/Server-Info) - Upload of an old project I never finished.
 - [Troll Addon](https://github.com/Declipsonator/Troll-Addon) - The wonderful troll addon to Meteor Client.
-- [Tweaks Stats](https://github.com/Declipsonator/Tweaks-Stats) - The statistics regarding visitors, clones, downloads etc of Meteor-Tweaks
 
 
 # Total Downloads
-My mods have around 3969 downloads. \
+My mods have around 3977 downloads. \
 \
 Rankings:
 - Meteor Tweaks - 1803 downloads  
-- Rain Growth - 481 downloads  
-- Troll Addon - 418 downloads  
-- Recipe Unlocker - 339 downloads  
+- Rain Growth - 482 downloads  
+- Troll Addon - 419 downloads  
+- Recipe Unlocker - 343 downloads  
 - Copyshot - 326 downloads  
 - Global Datapacks - 297 downloads  
 - Particle Blocker - 277 downloads  
 - Chat Control - 28 downloads  
+- No AutoJump - 2 downloads  
 
 
 # Support Me
@@ -49,4 +49,4 @@ Pretty much everything I code is published for free so it would mean a lot
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2022-04-15 00:43 (UTC)
+Last Updated: 2022-04-15 02:54 (UTC)
