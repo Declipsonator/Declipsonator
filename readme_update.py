@@ -56,7 +56,11 @@ def get_curseforge_downloads(user):
     for project in response.get('projects'):
         project_id = project.get('id')
         url = "https://api.cfwidget.com/{}".format(project_id)
-        response = requests.get(url).json()
+        # The api I'm using is kinda funky
+        try:
+            response = requests.get(url).json()
+        except:
+            continue
         print(response.get('title'))
         counted_downloads += response.get('downloads').get('total')
         for gm_project in saved_projects:
