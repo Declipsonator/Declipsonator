@@ -20,10 +20,10 @@
 
 
 # Total Downloads
-My mods have around 8619 downloads. \
+My mods have around 8622 downloads. \
 \
 Rankings:
-- Meteor Tweaks - 2894 downloads  
+- Meteor Tweaks - 2897 downloads  
 - Rain Growth - 1029 downloads  
 - Troll Addon - 909 downloads  
 - Recipe Unlocker - 784 downloads  
@@ -52,4 +52,4 @@ Pretty much everything I code is published for free so it would mean a lot
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2022-06-07 12:17 (UTC)
+Last Updated: 2022-06-07 13:29 (UTC)
