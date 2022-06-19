@@ -20,7 +20,7 @@
 
 
 # Total Downloads
-My mods have around 11477 downloads. \
+My mods have around 11478 downloads. \
 \
 Rankings:
 - Meteor Tweaks - 3113 downloads  
@@ -32,7 +32,7 @@ Rankings:
 - Shards! - 922 downloads  
 - Copyshot - 828 downloads  
 - Global Datapacks - 618 downloads  
-- Chat Control - 111 downloads  
+- Chat Control - 112 downloads  
 
 
 # Support Me
@@ -52,4 +52,4 @@ Pretty much everything I code is published for free so it would mean a lot
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2022-06-19 03:08 (UTC)
+Last Updated: 2022-06-19 04:23 (UTC)
