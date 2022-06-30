@@ -20,17 +20,17 @@
 
 
 # Total Downloads
-My mods have around 16429 downloads. \
+My mods have around 16511 downloads. \
 \
 Rankings:
-- Meteor Tweaks - 3308 downloads  
-- No AutoJump - 3121 downloads  
-- Global Datapacks - 2468 downloads  
-- Particle Blocker - 1837 downloads  
-- Rain Growth - 1342 downloads  
-- Recipe Unlocker - 1188 downloads  
+- Meteor Tweaks - 3310 downloads  
+- No AutoJump - 3124 downloads  
+- Global Datapacks - 2538 downloads  
+- Particle Blocker - 1839 downloads  
+- Rain Growth - 1345 downloads  
+- Recipe Unlocker - 1189 downloads  
 - Shards! - 1106 downloads  
-- Troll Addon - 1020 downloads  
+- Troll Addon - 1021 downloads  
 - Copyshot - 893 downloads  
 - Chat Control - 146 downloads  
 
@@ -52,4 +52,4 @@ Pretty much everything I code is published for free so it would mean a lot
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2022-06-30 09:09 (UTC)
+Last Updated: 2022-06-30 10:13 (UTC)
