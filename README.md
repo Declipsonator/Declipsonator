@@ -20,7 +20,7 @@
 
 
 # Total Downloads
-My mods have around 19289 downloads. \
+My mods have around 19290 downloads. \
 \
 Rankings:
 - Global Datapacks - 5104 downloads  
@@ -32,7 +32,7 @@ Rankings:
 - Shards! - 1124 downloads  
 - Troll Addon - 1033 downloads  
 - Copyshot - 903 downloads  
-- Chat Control - 151 downloads  
+- Chat Control - 152 downloads  
 
 
 # Support Me
@@ -52,4 +52,4 @@ Pretty much everything I code is published for free so it would mean a lot
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2022-07-02 06:11 (UTC)
+Last Updated: 2022-07-02 07:08 (UTC)
