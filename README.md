@@ -8,6 +8,7 @@
 # Projects
 - [Chat Control](https://github.com/Declipsonator/Chat-Control) - Take back control of your server chat with filters and mutes.
 - [Copyshot](https://github.com/Declipsonator/Copyshot) - Copies screenshots to your clipboard when you take them in Minecraft.
+- [Frost Boater](https://github.com/Declipsonator/Frost-Boater) - Makes the Minecraft Enchantment Frost Walker work with boats.
 - [Global Datapack](https://github.com/Declipsonator/Global-Datapack) - Makes a global datapack folder in minecraft so you don't have to copy datapacks between worlds.
 - [Meteor Tweaks](https://github.com/Declipsonator/Meteor-Tweaks) - A Meteor Client Addon that adds tweaks to modules and settings.
 - [No AutoJump](https://github.com/Declipsonator/No-AutoJump) - Completely remove the autojump feature from Minecraft.
@@ -20,7 +21,7 @@
 
 
 # Total Downloads
-My mods have around 49316 downloads. \
+My mods have around 49317 downloads. \
 \
 Rankings:
 - Global Datapacks - 22152 downloads  
@@ -29,7 +30,7 @@ Rankings:
 - No AutoJump - 3282 downloads  
 - Particle Blocker - 2570 downloads  
 - Recipe Unlocker - 1524 downloads  
-- Rain Growth - 1465 downloads  
+- Rain Growth - 1466 downloads  
 - Shards! - 1300 downloads  
 - Troll Addon - 1084 downloads  
 - Copyshot - 995 downloads  
@@ -52,4 +53,4 @@ Pretty much everything I code is published for free so it would mean a lot
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2022-07-13 17:18 (UTC)
+Last Updated: 2022-07-13 18:11 (UTC)
