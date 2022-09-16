@@ -21,7 +21,7 @@
 
 
 # Total Downloads
-My mods have around 113091 downloads. \
+My mods have around 113092 downloads. \
 \
 Rankings:
 - Global Datapacks - 60333 downloads  
@@ -33,7 +33,7 @@ Rankings:
 - Shards! - 1889 downloads  
 - Rain Growth - 1850 downloads  
 - Copyshot - 1551 downloads  
-- Troll Addon - 1501 downloads  
+- Troll Addon - 1502 downloads  
 - Frost Boater - 118 downloads  
 
 
@@ -54,4 +54,4 @@ Pretty much everything I code is published for free so it would mean a lot
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2022-09-16 13:40 (UTC)
+Last Updated: 2022-09-16 14:21 (UTC)
