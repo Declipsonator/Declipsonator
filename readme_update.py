@@ -13,7 +13,7 @@ def get_github_downloads(user):
 
     user = g.get_user(user)
 
-    for repo in user.get_repos():
+    for repo in user.get_repos():f
         repo_download_count = 0
         print(repo.name)
 
@@ -112,7 +112,7 @@ total_downloads = 0
 
 total_downloads += get_github_downloads('Declipsonator')
 total_downloads += get_modrinth_downloads('Declipsonator')
-total_downloads += get_curseforge_downloads('dexlips')
+total_downloads += get_curseforge_downloads('Declipsonator')
 
 template = requests.get('https://raw.githubusercontent.com/Declipsonator/Declipsonator/main/template.md').text
 
