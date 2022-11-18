@@ -13,7 +13,7 @@ def get_github_downloads(user):
 
     user = g.get_user(user)
 
-    for repo in user.get_repos():f
+    for repo in user.get_repos():
         repo_download_count = 0
         print(repo.name)
 
