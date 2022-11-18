@@ -48,9 +48,9 @@ def get_modrinth_downloads(user):
     return counted_downloads
 
 
-def get_curseforge_downloads(user):
+def get_curseforge_downloads(user_id):
     counted_downloads = 0
-    url = "https://api.cfwidget.com/author/search/{}".format(user)
+    url = "https://api.cfwidget.com/author/{}".format(user_id)
     response = requests.get(url).json()
 
     for project in response.get('projects'):
@@ -112,7 +112,7 @@ total_downloads = 0
 
 total_downloads += get_github_downloads('Declipsonator')
 total_downloads += get_modrinth_downloads('Declipsonator')
-total_downloads += get_curseforge_downloads('Declipsonator')
+total_downloads += get_curseforge_downloads(101367014)
 
 template = requests.get('https://raw.githubusercontent.com/Declipsonator/Declipsonator/main/template.md').text
 
