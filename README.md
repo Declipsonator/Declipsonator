@@ -21,14 +21,14 @@
 
 
 # Total Downloads
-My mods have around 139683 downloads. \
+My mods have around 139697 downloads. \
 \
 Rankings:
 - Global Datapacks - 63763 downloads  
 - Chat Control - 27155 downloads  
-- Recipe Unlocker - 22788 downloads  
+- Recipe Unlocker - 22801 downloads  
 - Particle Blocker - 7337 downloads  
-- Meteor Tweaks - 5423 downloads  
+- Meteor Tweaks - 5424 downloads  
 - No AutoJump - 4205 downloads  
 - Shards! - 2707 downloads  
 - Rain Growth - 2271 downloads  
@@ -54,4 +54,4 @@ Pretty much everything I code is published for free so it would mean a lot
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2023-01-08 11:06 (UTC)
+Last Updated: 2023-01-08 12:14 (UTC)
