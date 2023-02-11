@@ -11,6 +11,7 @@
 - [Featurosity](https://github.com/Declipsonator/Featurosity) - A Minecraft mod devoted to enhancing useless or pointless minecraft features.
 - [Frost Boater](https://github.com/Declipsonator/Frost-Boater) - Makes the Minecraft Enchantment Frost Walker work with boats.
 - [Global Datapack](https://github.com/Declipsonator/Global-Datapack) - Makes a global datapack folder in minecraft so you don't have to copy datapacks between worlds.
+- [GPTZzzs](https://github.com/Declipsonator/GPTZzzs) - ChatGpt/Gpt3 detector bypasser. Works with all detectors including GptZero.
 - [GroundhogDayResults](https://github.com/Declipsonator/GroundhogDayResults) - All the groundhog day results ever
 - [Meteor Tweaks](https://github.com/Declipsonator/Meteor-Tweaks) - A Meteor Client Addon that adds tweaks to modules and settings.
 - [No AutoJump](https://github.com/Declipsonator/No-AutoJump) - Completely remove the autojump feature from Minecraft.
@@ -22,13 +23,13 @@
 
 
 # Total Downloads
-My mods have around 148263 downloads. \
+My mods have around 148265 downloads. \
 \
 Rankings:
 - Global Datapacks - 64484 downloads  
 - Recipe Unlocker - 28157 downloads  
 - Chat Control - 27252 downloads  
-- Particle Blocker - 8204 downloads  
+- Particle Blocker - 8206 downloads  
 - Meteor Tweaks - 5755 downloads  
 - No AutoJump - 4277 downloads  
 - Shards! - 2946 downloads  
@@ -56,4 +57,4 @@ Pretty much everything I code is published for free so it would mean a lot
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2023-02-11 18:09 (UTC)
+Last Updated: 2023-02-11 19:06 (UTC)
