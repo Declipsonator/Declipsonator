@@ -23,7 +23,7 @@
 
 
 # Total Downloads
-My mods have around 149062 downloads. \
+My mods have around 149063 downloads. \
 \
 Rankings:
 - Global Datapacks - 64558 downloads  
@@ -37,7 +37,7 @@ Rankings:
 - Troll Addon - 2329 downloads  
 - Copyshot - 1965 downloads  
 - Frost Boater - 170 downloads  
-- Featurosity - 27 downloads  
+- Featurosity - 28 downloads  
 
 
 # Support Me
@@ -57,4 +57,4 @@ Pretty much everything I code is published for free so it would mean a lot
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2023-02-15 06:12 (UTC)
+Last Updated: 2023-02-15 07:08 (UTC)
