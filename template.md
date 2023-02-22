@@ -1,6 +1,7 @@
 # Declipsonator
 - Code Enthusiast
-- Java and Python user
+- Pretty good at Java and Python
+- Experimented with React, Html, C, C++
 - Minecraft Mod Developer
 - Open Source Believer
 - Gnu GPL/LGPL License person
@@ -16,18 +17,14 @@ Rankings:
 
 # Support Me
 Pretty much everything I code is published for free so it would mean a lot
-#### Crypto Donations:
-<a href="https://nowpayments.io/donation?api_key=BB09K8J-KVRMFN9-NXNBC94-1SXPDD8" target="_blank">
- <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
-</a>
 
-### Referrals:
-[Honeygain](https://r.honeygain.me/JH185B5145)\
-[Oke.io](https://oke.io/ref/declips)
+### Donations:
+<a href="https://www.buymeacoffee.com/declipsonator" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 
 ### Check Out my Mods:
-[Modrinth](https://oke.io/CIcWSn5)\
-[Curseforge](https://oke.io/j87up)
+[Modrinth](https://www.curseforge.com/members/declipsonator/projects)\
+[Curseforge](https://www.curseforge.com/members/declipsonator/projects)
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
