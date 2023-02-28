@@ -12,7 +12,7 @@
 - [Featurosity](https://github.com/Declipsonator/Featurosity) - A Minecraft mod devoted to enhancing useless or pointless minecraft features.
 - [Frost Boater](https://github.com/Declipsonator/Frost-Boater) - Makes the Minecraft Enchantment Frost Walker work with boats.
 - [Global Datapack](https://github.com/Declipsonator/Global-Datapack) - Makes a global datapack folder in minecraft so you don't have to copy datapacks between worlds.
-- [gptzzzs](https://github.com/Declipsonator/gptzzzs) - ChatGpt/Gpt3 detector bypasser. Works with all detectors including GptZero.
+- [GPTZzzs](https://github.com/Declipsonator/GPTZzzs) - ChatGpt/Gpt3 detector bypasser. Works with all detectors including GptZero.
 - [GroundhogDayResults](https://github.com/Declipsonator/GroundhogDayResults) - All the groundhog day results ever
 - [Meteor Tweaks](https://github.com/Declipsonator/Meteor-Tweaks) - A Meteor Client Addon that adds tweaks to modules and settings.
 - [No AutoJump](https://github.com/Declipsonator/No-AutoJump) - Completely remove the autojump feature from Minecraft.
@@ -24,18 +24,18 @@
 
 
 # Total Downloads
-My mods have around 151784 downloads. \
+My mods have around 151786 downloads. \
 \
 Rankings:
 - Global Datapacks - 64822 downloads  
 - Recipe Unlocker - 29868 downloads  
 - Chat Control - 27303 downloads  
-- Particle Blocker - 8674 downloads  
+- Particle Blocker - 8675 downloads  
 - Meteor Tweaks - 5928 downloads  
 - No AutoJump - 4348 downloads  
 - Rain Growth - 3119 downloads  
 - Shards! - 3054 downloads  
-- Troll Addon - 2440 downloads  
+- Troll Addon - 2441 downloads  
 - Copyshot - 1983 downloads  
 - Frost Boater - 189 downloads  
 - Featurosity - 56 downloads  
@@ -54,4 +54,4 @@ Pretty much everything I code is published for free so it would mean a lot
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2023-02-28 10:10 (UTC)
+Last Updated: 2023-02-28 11:07 (UTC)
