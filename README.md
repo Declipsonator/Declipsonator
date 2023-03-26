@@ -20,22 +20,20 @@
 - [Rain Growth](https://github.com/Declipsonator/Rain-Growth) - Makes Minecraft crops grow faster in the rain.
 - [Recipe Unlocker](https://github.com/Declipsonator/Recipe-Unlocker) - Unlocks all the recipes in the Minecraft crafting table.
 - [Shards](https://github.com/Declipsonator/Shards) - Get the most out of broken glass in Minecraft.
-- [Troll Addon](https://github.com/Declipsonator/Troll-Addon) - The wonderful troll addon to Meteor Client.
 
 
 # Total Downloads
-My mods have around 154154 downloads. \
+My mods have around 151493 downloads. \
 \
 Rankings:
 - Global Datapacks - 64994 downloads  
-- Recipe Unlocker - 30657 downloads  
+- Recipe Unlocker - 30659 downloads  
 - Chat Control - 27344 downloads  
 - Particle Blocker - 9113 downloads  
 - Meteor Tweaks - 6208 downloads  
 - No AutoJump - 4403 downloads  
 - Rain Growth - 3354 downloads  
 - Shards! - 3105 downloads  
-- Troll Addon - 2663 downloads  
 - Copyshot - 2000 downloads  
 - Frost Boater - 202 downloads  
 - Featurosity - 111 downloads  
@@ -54,4 +52,4 @@ Pretty much everything I code is published for free so it would mean a lot
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2023-03-26 21:07 (UTC)
+Last Updated: 2023-03-26 22:07 (UTC)
