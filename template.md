@@ -29,3 +29,7 @@ Pretty much everything I code is published for free so it would mean a lot
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
 Last Updated: {last_updated}
+
+## Contact
+- Email: `Declipsonator@gmail.com`
+- Discord: `Declipsonator#3631`
