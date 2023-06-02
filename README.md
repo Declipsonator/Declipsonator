@@ -24,7 +24,7 @@
 
 
 # Total Downloads
-My mods have around 163430 downloads. \
+My mods have around 163431 downloads. \
 \
 Rankings:
 - Global Datapacks - 66424 downloads  
@@ -37,7 +37,7 @@ Rankings:
 - Shards! - 3429 downloads  
 - Copyshot - 2358 downloads  
 - Frost Boater - 287 downloads  
-- Featurosity - 187 downloads  
+- Featurosity - 188 downloads  
 
 
 # Support Me
@@ -53,7 +53,7 @@ Pretty much everything I code is published for free so it would mean a lot
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2023-06-02 20:08 (UTC)
+Last Updated: 2023-06-02 21:06 (UTC)
 
 ## Contact
 - Email: `Declipsonator@gmail.com`
