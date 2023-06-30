@@ -20,7 +20,7 @@ def get_github_downloads(user):
         for release in repo.get_releases():
             for asset in release.get_assets():
                 print('{}, {}'.format(repo.name, asset))
-                
+
                 counted_downloads += asset.download_count
                 repo_download_count += asset.download_count
 
@@ -50,30 +50,23 @@ def get_modrinth_downloads(user):
 
 def get_curseforge_downloads(user_id):
     counted_downloads = 0
-    url = "https://api.cfwidget.com/author/{}".format(user_id)
-    response = requests.get(url).json()
+    response = requests.get('https://api.curse.tools/v1/cf/mods/search',
+                            params={'gameId': '432', 'authorId': '{}'.format(user_id)}).json()
 
-    for project in response.get('projects'):
-        project_id = project.get('id')
-        url = "https://api.cfwidget.com/{}".format(project_id)
-        # The api I'm using is kinda funky
-        try:
-            response = requests.get(url).json()
-        except:
-            continue
-        print(response.get('title'))
-        counted_downloads += response.get('downloads').get('total')
+    for project in response.get('data'):
+
+        print(project.get('name'))
+        counted_downloads += project.get('downloadCount')
         for gm_project in saved_projects:
             if gm_project[5] == 'Github':
                 continue
-            if gm_project[0].strip() == response.get('title').strip():
+            if gm_project[0].strip() == project.get('name').strip():
                 og_downs = gm_project[4]
-                gm_project[4] = gm_project[4] + response.get('downloads').get('total')
+                gm_project[4] = gm_project[4] + project.get('downloadCount')
                 for i in range(0, len(download_count)):
                     if download_count[i] == og_downs:
-                        download_count[i] = og_downs + response.get('downloads').get('total')
+                        download_count[i] = og_downs + project.get('downloadCount')
                         break
-
 
     return counted_downloads
 
@@ -108,6 +101,7 @@ def get_most_downloaded_string():
 
     return downloaded_string
 
+
 total_downloads = 0
 
 total_downloads += get_github_downloads('Declipsonator')
@@ -120,7 +114,6 @@ template = template.replace('{downloads}', str(total_downloads)) \
     .replace('{projects}', get_github_projects_string(saved_projects, 'Declipsonator')) \
     .replace('{last_updated}', datetime.utcnow().strftime('%Y-%m-%d %H:%M (UTC)')) \
     .replace('{rankings}', get_most_downloaded_string())
-
 
 with open('README.md', 'w', encoding='UTF-8') as f:
     f.write(template)
