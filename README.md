@@ -9,6 +9,7 @@
 # Projects
 - [Chat Control](https://github.com/Declipsonator/Chat-Control) - Take back control of your server chat with filters and mutes.
 - [Copyshot](https://github.com/Declipsonator/Copyshot) - Copies screenshots to your clipboard when you take them in Minecraft.
+- [days of python](https://github.com/Declipsonator/days-of-python) - A collection of things I wrote to keep my knowledge sharp (:
 - [Featurosity](https://github.com/Declipsonator/Featurosity) - A Minecraft mod devoted to enhancing useless or pointless minecraft features.
 - [Frost Boater](https://github.com/Declipsonator/Frost-Boater) - Makes the Minecraft Enchantment Frost Walker work with boats.
 - [Global Datapack](https://github.com/Declipsonator/Global-Datapack) - Makes a global datapack folder in minecraft so you don't have to copy datapacks between worlds.
@@ -24,18 +25,18 @@
 
 
 # Total Downloads
-My mods have around 171632 downloads. \
+My mods have around 171634 downloads. \
 \
 Rankings:
 - Global Datapacks - 69204 downloads  
 - Recipe Unlocker - 38231 downloads  
 - Chat Control - 27598 downloads  
-- Particle Blocker - 13530 downloads  
+- Particle Blocker - 13531 downloads  
 - Meteor Tweaks - 7271 downloads  
 - No AutoJump - 4808 downloads  
 - Rain Growth - 4393 downloads  
 - Copyshot - 2470 downloads  
-- Shards - 910 downloads  
+- Shards - 911 downloads  
 - Frost Boater - 313 downloads  
 - Featurosity - 195 downloads  
 
@@ -53,7 +54,7 @@ Pretty much everything I code is published for free so it would mean a lot
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2023-07-03 21:08 (UTC)
+Last Updated: 2023-07-03 22:08 (UTC)
 
 ## Contact
 - Email: `Declipsonator@gmail.com`
