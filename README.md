@@ -15,23 +15,25 @@
 - [Global Datapack](https://github.com/Declipsonator/Global-Datapack) - Makes a global datapack folder in minecraft so you don't have to copy datapacks between worlds.
 - [GPTZzzs](https://github.com/Declipsonator/GPTZzzs) - ChatGpt/Gpt3 detector bypasser. Works with all detectors including GptZero.
 - [GroundhogDayResults](https://github.com/Declipsonator/GroundhogDayResults) - All the groundhog day results ever
+- [mccrawler website](https://github.com/Declipsonator/mccrawler-website) - Website for searching minecraft servers from around the world.
 - [Meteor Tweaks](https://github.com/Declipsonator/Meteor-Tweaks) - A Meteor Client Addon that adds tweaks to modules and settings.
 - [No AutoJump](https://github.com/Declipsonator/No-AutoJump) - Completely remove the autojump feature from Minecraft.
 - [Particle Blocker](https://github.com/Declipsonator/Particle-Blocker) - Minecraft mod with a gui to disable particles.
 - [Rain Growth](https://github.com/Declipsonator/Rain-Growth) - Makes Minecraft crops grow faster in the rain.
 - [Recipe Unlocker](https://github.com/Declipsonator/Recipe-Unlocker) - Unlocks all the recipes in the Minecraft crafting table.
+- [Server Info](https://github.com/Declipsonator/Server-Info) - Tens of thousands of minecraft servers indexed for McCrawler.com.
 - [Shards](https://github.com/Declipsonator/Shards) - Get the most out of broken glass in Minecraft.
 - [Useful Python Scripts](https://github.com/Declipsonator/Useful-Python-Scripts) - A collection of random python scripts I write to make my life easier.
 
 
 # Total Downloads
-My mods have around 171948 downloads. \
+My mods have around 171949 downloads. \
 \
 Rankings:
 - Global Datapacks - 69230 downloads  
 - Recipe Unlocker - 38274 downloads  
 - Chat Control - 27604 downloads  
-- Particle Blocker - 13653 downloads  
+- Particle Blocker - 13654 downloads  
 - Meteor Tweaks - 7317 downloads  
 - No AutoJump - 4817 downloads  
 - Rain Growth - 4421 downloads  
@@ -54,7 +56,7 @@ Pretty much everything I code is published for free so it would mean a lot
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2023-07-08 23:08 (UTC)
+Last Updated: 2023-07-09 00:57 (UTC)
 
 ## Contact
 - Email: `Declipsonator@gmail.com`
