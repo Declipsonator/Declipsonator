@@ -19,6 +19,7 @@
 - [Meteor Tweaks](https://github.com/Declipsonator/Meteor-Tweaks) - A Meteor Client Addon that adds tweaks to modules and settings.
 - [No AutoJump](https://github.com/Declipsonator/No-AutoJump) - Completely remove the autojump feature from Minecraft.
 - [Particle Blocker](https://github.com/Declipsonator/Particle-Blocker) - Minecraft mod with a gui to disable particles.
+- [quickdraw](https://github.com/Declipsonator/quickdraw) - A simple implementation of the Google Quickdraw Dataset.
 - [Rain Growth](https://github.com/Declipsonator/Rain-Growth) - Makes Minecraft crops grow faster in the rain.
 - [Recipe Unlocker](https://github.com/Declipsonator/Recipe-Unlocker) - Unlocks all the recipes in the Minecraft crafting table.
 - [Server Info](https://github.com/Declipsonator/Server-Info) - Tens of thousands of minecraft servers indexed for McCrawler.com.
@@ -27,7 +28,7 @@
 
 
 # Total Downloads
-My mods have around 174912 downloads. \
+My mods have around 174916 downloads. \
 \
 Rankings:
 - Global Datapacks - 69504 downloads  
@@ -36,9 +37,9 @@ Rankings:
 - Particle Blocker - 15189 downloads  
 - Meteor Tweaks - 7501 downloads  
 - No AutoJump - 4866 downloads  
-- Rain Growth - 4634 downloads  
-- Shards - 3841 downloads  
-- Copyshot - 2546 downloads  
+- Rain Growth - 4635 downloads  
+- Shards - 3843 downloads  
+- Copyshot - 2547 downloads  
 - Frost Boater - 361 downloads  
 - Featurosity - 208 downloads  
 
@@ -56,7 +57,7 @@ Pretty much everything I code is published for free so it would mean a lot
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2023-08-16 01:38 (UTC)
+Last Updated: 2023-08-16 02:12 (UTC)
 
 ## Contact
 - Email: `Declipsonator@gmail.com`
