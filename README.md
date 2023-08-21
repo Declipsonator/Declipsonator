@@ -28,13 +28,13 @@
 
 
 # Total Downloads
-My mods have around 175375 downloads. \
+My mods have around 175378 downloads. \
 \
 Rankings:
-- Global Datapacks - 69566 downloads  
+- Global Datapacks - 69567 downloads  
 - Recipe Unlocker - 38661 downloads  
-- Chat Control - 27672 downloads  
-- Particle Blocker - 15369 downloads  
+- Chat Control - 27673 downloads  
+- Particle Blocker - 15370 downloads  
 - Meteor Tweaks - 7544 downloads  
 - No AutoJump - 4884 downloads  
 - Rain Growth - 4669 downloads  
@@ -57,7 +57,7 @@ Pretty much everything I code is published for free so it would mean a lot
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2023-08-21 09:08 (UTC)
+Last Updated: 2023-08-21 10:13 (UTC)
 
 ## Contact
 - Email: `Declipsonator@gmail.com`
