@@ -14,19 +14,23 @@ def get_github_downloads(user):
     user = g.get_user(user)
 
     for repo in user.get_repos():
-        repo_download_count = 0
-        print(repo.name)
+        try:
+            repo_download_count = 0
+            print(repo.name)
 
-        for release in repo.get_releases():
-            for asset in release.get_assets():
-                print('{}, {}'.format(repo.name, asset))
+            for release in repo.get_releases():
+                for asset in release.get_assets():
+                    print('{}, {}'.format(repo.name, asset))
 
-                counted_downloads += asset.download_count
-                repo_download_count += asset.download_count
+                    counted_downloads += asset.download_count
+                    repo_download_count += asset.download_count
 
-        saved_projects.append(
-            [repo.name, repo.description, repo.stargazers_count, repo.url, repo_download_count, 'Github'])
-        download_count.append(repo_download_count)
+            saved_projects.append(
+                [repo.name, repo.description, repo.stargazers_count, repo.url, repo_download_count, 'Github'])
+            download_count.append(repo_download_count)
+        except:
+            ''
+    
 
     return counted_downloads
 
