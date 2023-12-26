@@ -22,26 +22,25 @@
 - [quickdraw](https://github.com/Declipsonator/quickdraw) - A simple implementation of the Google Quickdraw Dataset.
 - [Rain Growth](https://github.com/Declipsonator/Rain-Growth) - Makes Minecraft crops grow faster in the rain.
 - [Recipe Unlocker](https://github.com/Declipsonator/Recipe-Unlocker) - Unlocks all the recipes in the Minecraft crafting table.
-- [Server Info](https://github.com/Declipsonator/Server-Info) - Tens of thousands of minecraft servers indexed for McCrawler.com.
 - [Shards](https://github.com/Declipsonator/Shards) - Get the most out of broken glass in Minecraft.
 - [Useful Python Scripts](https://github.com/Declipsonator/Useful-Python-Scripts) - A collection of random python scripts I write to make my life easier.
 
 
 # Total Downloads
-My mods have around 177100 downloads. \
+My mods have around 223255 downloads. \
 \
 Rankings:
-- Global Datapacks - 69770 downloads  
-- Recipe Unlocker - 38892 downloads  
-- Chat Control - 27707 downloads  
-- Particle Blocker - 15994 downloads  
-- Meteor Tweaks - 7630 downloads  
-- No AutoJump - 4910 downloads  
-- Rain Growth - 4855 downloads  
-- Shards - 4119 downloads  
-- Copyshot - 2591 downloads  
-- Frost Boater - 401 downloads  
-- Featurosity - 231 downloads  
+- Global Datapacks - 90948 downloads  
+- Recipe Unlocker - 52236 downloads  
+- Chat Control - 28015 downloads  
+- Particle Blocker - 22225 downloads  
+- Meteor Tweaks - 7897 downloads  
+- Rain Growth - 6675 downloads  
+- Shards - 6274 downloads  
+- No AutoJump - 5184 downloads  
+- Copyshot - 2867 downloads  
+- Frost Boater - 658 downloads  
+- Featurosity - 276 downloads  
 
 
 # Support Me
@@ -57,7 +56,7 @@ Pretty much everything I code is published for free so it would mean a lot
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2023-09-15 21:06 (UTC)
+Last Updated: 2023-12-26 17:23 (UTC)
 
 ## Contact
 - Email: `Declipsonator@gmail.com`
