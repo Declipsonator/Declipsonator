@@ -13,7 +13,7 @@
 - [Featurosity](https://github.com/Declipsonator/Featurosity) - A Minecraft mod devoted to enhancing useless or pointless minecraft features.
 - [Frost Boater](https://github.com/Declipsonator/Frost-Boater) - Makes the Minecraft Enchantment Frost Walker work with boats.
 - [Global Datapack](https://github.com/Declipsonator/Global-Datapack) - Makes a global datapack folder in minecraft so you don't have to copy datapacks between worlds.
-- [GPTZzzs](https://github.com/Declipsonator/GPTZzzs) - ChatGpt/Gpt3 detector bypasser. Works with all detectors including GptZero.
+- [GPTZzzs](https://github.com/Declipsonator/GPTZzzs) - ChatGpt/Gpt3 detector bypasser fun. Works with all detectors including GptZero.
 - [GroundhogDayResults](https://github.com/Declipsonator/GroundhogDayResults) - All the groundhog day results ever
 - [mccrawler website](https://github.com/Declipsonator/mccrawler-website) - Website for searching minecraft servers from around the world.
 - [Meteor Tweaks](https://github.com/Declipsonator/Meteor-Tweaks) - A Meteor Client Addon that adds tweaks to modules and settings.
@@ -27,15 +27,15 @@
 
 
 # Total Downloads
-My mods have around 230203 downloads. \
+My mods have around 230220 downloads. \
 \
 Rankings:
-- Global Datapacks - 92176 downloads  
-- Recipe Unlocker - 55393 downloads  
+- Global Datapacks - 92178 downloads  
+- Recipe Unlocker - 55399 downloads  
 - Chat Control - 28125 downloads  
-- Particle Blocker - 23343 downloads  
-- Meteor Tweaks - 7993 downloads  
-- Rain Growth - 7196 downloads  
+- Particle Blocker - 23346 downloads  
+- Meteor Tweaks - 7995 downloads  
+- Rain Growth - 7200 downloads  
 - Shards - 6871 downloads  
 - No AutoJump - 5216 downloads  
 - Copyshot - 2909 downloads  
@@ -56,7 +56,7 @@ Pretty much everything I code is published for free so it would mean a lot
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2024-01-25 00:40 (UTC)
+Last Updated: 2024-01-25 01:54 (UTC)
 
 ## Contact
 - Email: `Declipsonator@gmail.com`
