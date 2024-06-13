@@ -18,6 +18,7 @@
 - [GroundhogDayResults](https://github.com/Declipsonator/GroundhogDayResults) - All the groundhog day results ever
 - [mccrawler website](https://github.com/Declipsonator/mccrawler-website) - Website for searching minecraft servers from around the world.
 - [Meteor Tweaks](https://github.com/Declipsonator/Meteor-Tweaks) - A Meteor Client Addon that adds tweaks to modules and settings.
+- [neural network visualize](https://github.com/Declipsonator/neural-network-visualize) - Visualizing neural networks
 - [No AutoJump](https://github.com/Declipsonator/No-AutoJump) - Completely remove the autojump feature from Minecraft.
 - [Particle Blocker](https://github.com/Declipsonator/Particle-Blocker) - Minecraft mod with a gui to disable particles.
 - [quickdraw](https://github.com/Declipsonator/quickdraw) - A simple implementation of the Google Quickdraw Dataset.
@@ -29,13 +30,13 @@
 
 
 # Total Downloads
-My mods have around 301868 downloads. \
+My mods have around 301872 downloads. \
 \
 Rankings:
 - Global Datapacks - 117397 downloads  
-- Recipe Unlocker - 82035 downloads  
-- Particle Blocker - 31389 downloads  
-- Chat Control - 29787 downloads  
+- Recipe Unlocker - 82037 downloads  
+- Particle Blocker - 31390 downloads  
+- Chat Control - 29788 downloads  
 - Rain Growth - 13004 downloads  
 - Meteor Tweaks - 8444 downloads  
 - Shards - 8295 downloads  
@@ -58,7 +59,7 @@ Pretty much everything I code is published for free so it would mean a lot
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2024-06-13 18:12 (UTC)
+Last Updated: 2024-06-13 19:07 (UTC)
 
 ## Contact
 - Email: `Declipsonator@gmail.com`
