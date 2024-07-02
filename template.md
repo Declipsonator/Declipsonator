@@ -31,5 +31,4 @@ Pretty much everything I code is published for free so it would mean a lot
 Last Updated: {last_updated}
 
 ## Contact
-- Email: `Declipsonator@gmail.com`
-- Discord: `Declipsonator#3631`
+- Email: `jackson@jacksonhickey.tech`
