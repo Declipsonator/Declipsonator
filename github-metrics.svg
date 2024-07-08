@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2283" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="2070" class="large">
     <defs>
         <style/>
     </defs>
@@ -171,13 +171,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    655 MB used
+                                    656 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    39.3k added, 23.4k removed
+                                    34.3k added, 21.9k removed
                                 </div>
                             </section>
                             <section>
@@ -1578,7 +1578,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        8.12k
+                                        8.13k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1975,7 +1975,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 608k out of 213m repositories</span>
+                                    <span class="gh">ranked 608k out of 208m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 20 times</div>
                             </div>
@@ -2054,7 +2054,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 519k out of 213m repositories</span>
+                                    <span class="gh">ranked 519k out of 208m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 63 stars</div>
                             </div>
@@ -2322,7 +2322,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 7 Jul 2024, 22:32:52
+                            On 5 Jul 2024, 23:51:45
                         </div>
                     </section>
                 </div>
@@ -2332,16 +2332,16 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            Contact Page
+                            Homepage
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">8a361111</span>
-                            <span class="code">public/runner.svg</span>
+                            <span class="code">e51308d4</span>
+                            <span class="code">src/assets/insta.svg</span>
                             <span class="code">
-                                <span class="snippet additions">++5</span>
+                                <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--0</span>
                             </span>
                         </div>
@@ -2350,14 +2350,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,5 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">&lt;?xml version="1.0" encoding="utf-8"?&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">&lt;svg width="299" height="234" xmlns="http://www.w3.org/2000/svg"&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line"> &lt;defs/&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line"> &lt;path d="M112.688 98.188c15.19 6.476 27.303 16.58 39.629 27.352 1.782 1.546 3.584 3.066 5.386 4.589 3.86 3.306 7.05 6.972 10.297 10.871l2.078 2.383c5.401 6.38 9.746 12.604 10.047 21.18-3.98 12.163-14.1 20.771-25.117 26.562-7.33 3.586-15.17 5.71-23.008 7.875l-2.854.806C110.494 205.04 93.381 207.354 74 207c1-3 1-3 3.375-4.372l3.195-1.421 3.613-1.636 1.945-.866a880.364 880.364 0 0 0 10.204-4.662l2.144-.99c7.18-3.33 14.276-6.812 21.326-10.406 1.324-.673 2.65-1.341 3.98-2.004 7.986-3.987 14.89-8.263 21.218-14.643-1.506-4.113-2.672-5.951-6.375-8.375l-2.336-1.586c-2.166-1.192-2.166-1.192-4.234-.953-2.852 1.268-5.087 3.004-7.555 4.914l-1.6 1.221a785.458 785.458 0 0 0-7.72 5.99c-13.416 10.35-28.31 18.476-42.917 27a1645.287 1645.287 0 0 0-27.888 16.664c-10.08 6.153-20.21 12.206-30.479 18.039a247.69 247.69 0 0 0-3.853 2.254C6.488 233.275 4.192 234.508 0 234c1.329-2.955 2.773-5.013 5.082-7.277l1.826-1.807 1.904-1.853 1.87-1.842c1.163-1.146 2.329-2.29 3.497-3.432 2.288-2.248 4.553-4.52 6.821-6.789l6.332-6.316c6.252-6.236 12.501-12.474 18.75-18.714a19772.7 19772.7 0 0 1 11.32-11.297c3.666-3.654 7.328-7.31 10.989-10.969 1.389-1.387 2.779-2.773 4.17-4.158C82.597 149.57 82.597 149.57 92 139c1.145-1.334 2.29-2.668 3.438-4L98 132l-1.61-1.285c-6.274-5.21-10.121-9.435-11.328-17.653-.298-4.902.323-8.858 2.938-13.062 6.692-6.864 16.516-4.836 24.688-1.813zM140 5l3.098 1.504C155.092 12.927 165.566 21.774 170 35c1.125 4.807.108 8.25-2.375 12.438-2.263 3.381-2.263 3.381-4.625 4.562-7.736 1.041-13.566-.674-20-5-1.764-1.573-3.352-3.23-4.957-4.965-2.676-2.665-5.564-4.969-8.543-7.285l-1.618-1.286C122.037 28.973 116.53 26.178 109 27c-9.147 3.476-14.31 11.585-18.504 20.027C84.92 59.507 79.452 73.22 79 87h-3c-.512-3.77-1.007-7.54-1.5-11.313l-.434-3.189C71.35 51.479 73.014 30.735 85.97 13.359 99.8-3.379 121.284-4.183 140 5zM296 52h3c.542 12.073.632 21.996-5 33l-1.797 3.738C283.638 106.08 271.152 118.623 253 126c-8.799 2.193-17.135 1.705-25-3-12.127-9.395-21.928-21.58-25-37-.749-7.106.156-12.904 4-19 2.68-2.68 5.118-4.886 9-5 7.087 2.32 11.056 5.888 14.5 12.563 1.827 3.812 3.394 7.69 4.938 11.624C237.46 91.085 239.59 95.84 244 99c3.944 1.613 6.112 2.25 10.254 1.086 19.1-9.877 33.753-24.774 40.906-45.438L296 52zM230.52 14.785c4.838 4.32 7.775 10.563 9 16.906.357 8.466-3.18 15.635-8.805 21.805-6.229 5.462-13.458 6.875-21.512 6.777-7.524-.642-13.668-3.617-18.73-9.23-4.149-5.755-6.317-12.284-5.98-19.395 1.343-7.01 4.694-13.654 10.257-18.21 11.973-7.68 24.413-6.7 35.77 1.347z" style="fill: rgb(240, 56, 71);"/&gt;<br /></span><span class="token prefix inserted">+</span><span class="token line">&lt;/svg&gt;<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">&lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0,0,256,256" width="24px" height="24px"&gt;&lt;g fill="#f03847" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"&gt;&lt;g transform="scale(10.66667,10.66667)"&gt;&lt;path d="M8,3c-2.761,0 -5,2.239 -5,5v8c0,2.761 2.239,5 5,5h8c2.761,0 5,-2.239 5,-5v-8c0,-2.761 -2.239,-5 -5,-5zM18,5c0.552,0 1,0.448 1,1c0,0.552 -0.448,1 -1,1c-0.552,0 -1,-0.448 -1,-1c0,-0.552 0.448,-1 1,-1zM12,7c2.761,0 5,2.239 5,5c0,2.761 -2.239,5 -5,5c-2.761,0 -5,-2.239 -5,-5c0,-2.761 2.239,-5 5,-5zM12,9c-1.65685,0 -3,1.34315 -3,3c0,1.65685 1.34315,3 3,3c1.65685,0 3,-1.34315 3,-3c0,-1.65685 -1.34315,-3 -3,-3z"&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Jul 2024, 06:22:10 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Jul 2024, 07:17:25 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
