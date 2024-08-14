@@ -15,7 +15,7 @@
 - [frc field testing](https://github.com/Declipsonator/frc-field-testing) - Quick and easy website for mapping out positions.
 - [Frost Boater](https://github.com/Declipsonator/Frost-Boater) - Makes the Minecraft Enchantment Frost Walker work with boats.
 - [Global Datapack](https://github.com/Declipsonator/Global-Datapack) - Makes a global datapack folder in minecraft so you don't have to copy datapacks between worlds.
-- [GPTZzzs](https://github.com/Declipsonator/GPTZzzs) - ChatGpt/Gpt3 detector bypasser fun. Works with all detectors including GptZero.
+- [GPTZzzs](https://github.com/Declipsonator/GPTZzzs) - Large language model detection evasion by changing grammar.
 - [GroundhogDayResults](https://github.com/Declipsonator/GroundhogDayResults) - All the groundhog day results ever
 - [mccrawler website](https://github.com/Declipsonator/mccrawler-website) - Website for searching minecraft servers from around the world.
 - [Meteor Tweaks](https://github.com/Declipsonator/Meteor-Tweaks) - A Meteor Client Addon that adds tweaks to modules and settings.
@@ -31,19 +31,19 @@
 
 
 # Total Downloads
-My mods have around 382564 downloads. \
+My mods have around 382472 downloads. \
 \
 Rankings:
-- Global Datapacks - 133468 downloads  
-- Recipe Unlocker - 125116 downloads  
-- Particle Blocker - 37717 downloads  
+- Global Datapacks - 133409 downloads  
+- Recipe Unlocker - 125122 downloads  
+- Particle Blocker - 37698 downloads  
 - Chat Control - 31371 downloads  
-- Rain Growth - 17972 downloads  
-- Shards - 9815 downloads  
+- Rain Growth - 17956 downloads  
+- Shards - 9814 downloads  
 - Copyshot - 9721 downloads  
 - Meteor Tweaks - 8670 downloads  
-- No AutoJump - 6991 downloads  
-- Frost Boater - 1191 downloads  
+- No AutoJump - 6990 downloads  
+- Frost Boater - 1189 downloads  
 - Featurosity - 532 downloads  
 
 
@@ -60,7 +60,7 @@ Pretty much everything I code is published for free so it would mean a lot
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2024-08-14 16:13 (UTC)
+Last Updated: 2024-08-14 17:08 (UTC)
 
 ## Contact
 - Email: `jackson@jacksonhickey.tech`
