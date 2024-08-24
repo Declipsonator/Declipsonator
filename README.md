@@ -17,6 +17,7 @@
 - [Global Datapack](https://github.com/Declipsonator/Global-Datapack) - Makes a global datapack folder in minecraft so you don't have to copy datapacks between worlds.
 - [GPTZzzs](https://github.com/Declipsonator/GPTZzzs) - Large language model detection evasion by changing grammar.
 - [GroundhogDayResults](https://github.com/Declipsonator/GroundhogDayResults) - All the groundhog day results ever
+- [Highschool Internships](https://github.com/Declipsonator/Highschool-Internships) - An auto-updating list of high school internships.
 - [mccrawler website](https://github.com/Declipsonator/mccrawler-website) - Website for searching minecraft servers from around the world.
 - [Meteor Tweaks](https://github.com/Declipsonator/Meteor-Tweaks) - A Meteor Client Addon that adds tweaks to modules and settings.
 - [neural network visualize](https://github.com/Declipsonator/neural-network-visualize) - Visualizing neural networks
@@ -31,16 +32,16 @@
 
 
 # Total Downloads
-My mods have around 394553 downloads. \
+My mods have around 394612 downloads. \
 \
 Rankings:
-- Global Datapacks - 135139 downloads  
-- Recipe Unlocker - 132216 downloads  
-- Particle Blocker - 38690 downloads  
-- Chat Control - 31537 downloads  
+- Global Datapacks - 135148 downloads  
+- Recipe Unlocker - 132242 downloads  
+- Particle Blocker - 38694 downloads  
+- Chat Control - 31539 downloads  
 - Rain Growth - 18437 downloads  
-- Copyshot - 10870 downloads  
-- Shards - 10095 downloads  
+- Copyshot - 10887 downloads  
+- Shards - 10096 downloads  
 - Meteor Tweaks - 8718 downloads  
 - No AutoJump - 7108 downloads  
 - Frost Boater - 1203 downloads  
@@ -60,7 +61,7 @@ Pretty much everything I code is published for free so it would mean a lot
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2024-08-24 16:10 (UTC)
+Last Updated: 2024-08-24 17:09 (UTC)
 
 ## Contact
 - Email: `jackson@jacksonhickey.tech`
