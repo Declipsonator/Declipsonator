@@ -15,7 +15,7 @@
 - [frc field testing](https://github.com/Declipsonator/frc-field-testing) - Quick and easy website for mapping out positions.
 - [Frost Boater](https://github.com/Declipsonator/Frost-Boater) - Makes the Minecraft Enchantment Frost Walker work with boats.
 - [Global Datapack](https://github.com/Declipsonator/Global-Datapack) - Makes a global datapack folder in minecraft so you don't have to copy datapacks between worlds.
-- [GPTZzzs](https://github.com/Declipsonator/GPTZzzs) - Large language model detection evasion by changing grammar.
+- [GPTZzzs](https://github.com/Declipsonator/GPTZzzs) - Large language model detection evasion through grammar and vocabulary modifcation.
 - [GroundhogDayResults](https://github.com/Declipsonator/GroundhogDayResults) - All the groundhog day results ever
 - [Highschool Internships](https://github.com/Declipsonator/Highschool-Internships) - An auto-updating list of high school internships.
 - [mccrawler website](https://github.com/Declipsonator/mccrawler-website) - Website for searching minecraft servers from around the world.
@@ -32,16 +32,16 @@
 
 
 # Total Downloads
-My mods have around 441761 downloads. \
+My mods have around 441788 downloads. \
 \
 Rankings:
-- Recipe Unlocker - 155763 downloads  
-- Global Datapacks - 145117 downloads  
-- Particle Blocker - 42511 downloads  
-- Chat Control - 32448 downloads  
+- Recipe Unlocker - 155770 downloads  
+- Global Datapacks - 145125 downloads  
+- Particle Blocker - 42513 downloads  
+- Chat Control - 32451 downloads  
 - Rain Growth - 20612 downloads  
-- Copyshot - 15547 downloads  
-- Shards - 11351 downloads  
+- Copyshot - 15553 downloads  
+- Shards - 11352 downloads  
 - Meteor Tweaks - 8970 downloads  
 - No AutoJump - 7462 downloads  
 - Frost Boater - 1287 downloads  
@@ -61,7 +61,7 @@ Pretty much everything I code is published for free so it would mean a lot
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2024-10-07 23:10 (UTC)
+Last Updated: 2024-10-08 00:50 (UTC)
 
 ## Contact
 - Email: `jackson@jacksonhickey.tech`
