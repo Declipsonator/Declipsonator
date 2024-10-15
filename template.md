@@ -15,13 +15,6 @@ My mods have around {downloads} downloads. \
 Rankings:
 {rankings}
 
-# Support Me
-Pretty much everything I code is published for free so it would mean a lot
-
-### Donations:
-<a href="https://www.buymeacoffee.com/declipsonator" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-
 ### Check Out my Mods:
 [Modrinth](https://www.curseforge.com/members/declipsonator/projects)\
 [Curseforge](https://www.curseforge.com/members/declipsonator/projects)
