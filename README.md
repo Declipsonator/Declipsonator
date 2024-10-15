@@ -27,20 +27,21 @@
 - [Rain Growth](https://github.com/Declipsonator/Rain-Growth) - Makes Minecraft crops grow faster in the rain.
 - [Recipe Unlocker](https://github.com/Declipsonator/Recipe-Unlocker) - Unlocks all the recipes in the Minecraft crafting table.
 - [Shards](https://github.com/Declipsonator/Shards) - Get the most out of broken glass in Minecraft.
+- [strava quote](https://github.com/Declipsonator/strava-quote) - AI quotes on your strava activities
 - [StrideBack](https://github.com/Declipsonator/StrideBack) - Backend for a EmpireStrides high school ny running website
 - [Useful Python Scripts](https://github.com/Declipsonator/Useful-Python-Scripts) - A collection of random python scripts I write to make my life easier.
 
 
 # Total Downloads
-My mods have around 448819 downloads. \
+My mods have around 448828 downloads. \
 \
 Rankings:
-- Recipe Unlocker - 159420 downloads  
+- Recipe Unlocker - 159425 downloads  
 - Global Datapacks - 146508 downloads  
-- Particle Blocker - 43107 downloads  
+- Particle Blocker - 43108 downloads  
 - Chat Control - 32544 downloads  
-- Rain Growth - 21002 downloads  
-- Copyshot - 16202 downloads  
+- Rain Growth - 21003 downloads  
+- Copyshot - 16204 downloads  
 - Shards - 11522 downloads  
 - Meteor Tweaks - 8999 downloads  
 - No AutoJump - 7515 downloads  
@@ -54,7 +55,7 @@ Rankings:
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2024-10-15 01:57 (UTC)
+Last Updated: 2024-10-15 02:14 (UTC)
 
 ## Contact
 - Email: `jackson@jacksonhickey.tech`
