@@ -32,27 +32,20 @@
 
 
 # Total Downloads
-My mods have around 448799 downloads. \
+My mods have around 448819 downloads. \
 \
 Rankings:
-- Recipe Unlocker - 159411 downloads  
-- Global Datapacks - 146504 downloads  
-- Particle Blocker - 43104 downloads  
+- Recipe Unlocker - 159420 downloads  
+- Global Datapacks - 146508 downloads  
+- Particle Blocker - 43107 downloads  
 - Chat Control - 32544 downloads  
-- Rain Growth - 21001 downloads  
-- Copyshot - 16199 downloads  
+- Rain Growth - 21002 downloads  
+- Copyshot - 16202 downloads  
 - Shards - 11522 downloads  
 - Meteor Tweaks - 8999 downloads  
 - No AutoJump - 7515 downloads  
 - Frost Boater - 1294 downloads  
 - Featurosity - 706 downloads  
-
-
-# Support Me
-Pretty much everything I code is published for free so it would mean a lot
-
-### Donations:
-<a href="https://www.buymeacoffee.com/declipsonator" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 
 ### Check Out my Mods:
@@ -61,7 +54,7 @@ Pretty much everything I code is published for free so it would mean a lot
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2024-10-15 00:52 (UTC)
+Last Updated: 2024-10-15 01:57 (UTC)
 
 ## Contact
 - Email: `jackson@jacksonhickey.tech`
