@@ -33,7 +33,7 @@
 
 
 # Total Downloads
-My mods have around 481211 downloads. \
+My mods have around 481212 downloads. \
 \
 Rankings:
 - Recipe Unlocker - 178302 downloads  
@@ -43,7 +43,7 @@ Rankings:
 - Rain Growth - 22648 downloads  
 - Copyshot - 19179 downloads  
 - Shards - 12219 downloads  
-- Meteor Tweaks - 9104 downloads  
+- Meteor Tweaks - 9105 downloads  
 - No AutoJump - 7659 downloads  
 - Frost Boater - 1322 downloads  
 - Featurosity - 723 downloads  
@@ -55,7 +55,7 @@ Rankings:
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2024-11-13 13:18 (UTC)
+Last Updated: 2024-11-13 14:10 (UTC)
 
 ## Contact
 - Email: `jackson@jacksonhickey.tech`
