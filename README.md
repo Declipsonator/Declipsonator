@@ -7,7 +7,7 @@
 - Gnu GPL/LGPL License person
 - Profile Visits: <img src="https://c.andyhoppe.com/1649759421" style="border:none" alt="Counter"/>
 # Projects
-- [Chat Control](https://github.com/Declipsonator/Chat-Control) - Take back control of your server chat with filters and mutes. (Star? 🥺)
+- [Chat Control](https://github.com/Declipsonator/Chat-Control) - Take back control of your server chat with filters and mutes.
 - [Copyshot](https://github.com/Declipsonator/Copyshot) - Copies screenshots to your clipboard when you take them in Minecraft.
 - [days of python](https://github.com/Declipsonator/days-of-python) - A collection of things I wrote to keep my knowledge sharp (:
 - [declipsonator.github.io](https://github.com/Declipsonator/declipsonator.github.io) - A professional website for a professional fellow
@@ -34,17 +34,17 @@
 
 
 # Total Downloads
-My mods have around 932006 downloads. \
+My mods have around 932059 downloads. \
 \
 Rankings:
-- Global Datapacks - 355777 downloads  
-- Recipe Unlocker - 350096 downloads  
-- Particle Blocker - 76238 downloads  
+- Global Datapacks - 355782 downloads  
+- Recipe Unlocker - 350141 downloads  
+- Particle Blocker - 76239 downloads  
 - Chat Control - 36957 downloads  
 - Rain Growth - 36249 downloads  
-- Copyshot - 34086 downloads  
+- Copyshot - 34087 downloads  
 - Shards - 20712 downloads  
-- Meteor Tweaks - 10214 downloads  
+- Meteor Tweaks - 10215 downloads  
 - No AutoJump - 9026 downloads  
 - Frost Boater - 1734 downloads  
 - Featurosity - 917 downloads  
@@ -56,7 +56,7 @@ Rankings:
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2025-06-03 10:14 (UTC)
+Last Updated: 2025-06-03 11:11 (UTC)
 
 ## Contact
 - Email: `jackson@jacksonhickey.tech`
