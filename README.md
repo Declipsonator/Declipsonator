@@ -34,19 +34,19 @@
 
 
 # Total Downloads
-My mods have around 2048829 downloads. \
+My mods have around 2049024 downloads. \
 \
 Rankings:
-- Recipe Unlocker - 730705 downloads  
-- Shards - 504763 downloads  
-- Global Datapacks - 503352 downloads  
-- Particle Blocker - 134808 downloads  
-- Rain Growth - 59847 downloads  
-- Chat Control - 45420 downloads  
-- Copyshot - 43818 downloads  
+- Recipe Unlocker - 730812 downloads  
+- Shards - 504807 downloads  
+- Global Datapacks - 503380 downloads  
+- Particle Blocker - 134817 downloads  
+- Rain Growth - 59848 downloads  
+- Chat Control - 45422 downloads  
+- Copyshot - 43821 downloads  
 - Meteor Tweaks - 11651 downloads  
 - No AutoJump - 11071 downloads  
-- Frost Boater - 2239 downloads  
+- Frost Boater - 2240 downloads  
 - Featurosity - 1155 downloads  
 
 
@@ -56,7 +56,7 @@ Rankings:
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2026-03-02 14:37 (UTC)
+Last Updated: 2026-03-02 15:34 (UTC)
 
 ## Contact
 - Email: `jackson@jacksonhickey.tech`
