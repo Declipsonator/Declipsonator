@@ -34,7 +34,7 @@
 
 
 # Total Downloads
-My mods have around 2200071 downloads. \
+My mods have around 2200073 downloads. \
 \
 Rankings:
 - Recipe Unlocker - 804445 downloads  
@@ -44,7 +44,7 @@ Rankings:
 - Rain Growth - 64530 downloads  
 - Chat Control - 46686 downloads  
 - Copyshot - 45107 downloads  
-- Meteor Tweaks - 11882 downloads  
+- Meteor Tweaks - 11884 downloads  
 - No AutoJump - 11610 downloads  
 - Frost Boater - 2318 downloads  
 - Featurosity - 1194 downloads  
@@ -56,7 +56,7 @@ Rankings:
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2026-04-25 18:37 (UTC)
+Last Updated: 2026-04-25 19:38 (UTC)
 
 ## Contact
 - Email: `jackson@jacksonhickey.tech`
