@@ -16,7 +16,7 @@
 - [frc field testing](https://github.com/Declipsonator/frc-field-testing) - Quick and easy website for mapping out positions.
 - [Frost Boater](https://github.com/Declipsonator/Frost-Boater) - Makes the Minecraft Enchantment Frost Walker work with boats.
 - [Global Datapack](https://github.com/Declipsonator/Global-Datapack) - Makes a global datapack folder in minecraft so you don't have to copy datapacks between worlds.
-- [GPTZzzs](https://github.com/Declipsonator/GPTZzzs) - Large language model detection evasion through grammar and vocabulary modifcation.
+- [GPTZzzs](https://github.com/Declipsonator/GPTZzzs) - Large language model detection evasion through grammar and vocabulary modification.
 - [GroundhogDayResults](https://github.com/Declipsonator/GroundhogDayResults) - All the groundhog day results ever
 - [Highschool Internships](https://github.com/Declipsonator/Highschool-Internships) - An auto-updating list of high school internships.
 - [mccrawler website](https://github.com/Declipsonator/mccrawler-website) - Website for searching minecraft servers from around the world.
@@ -34,16 +34,16 @@
 
 
 # Total Downloads
-My mods have around 2513922 downloads. \
+My mods have around 2513999 downloads. \
 \
 Rankings:
-- Recipe Unlocker - 927341 downloads  
-- Global Datapacks - 620636 downloads  
-- Shards - 607245 downloads  
-- Particle Blocker - 158077 downloads  
+- Recipe Unlocker - 927365 downloads  
+- Global Datapacks - 620660 downloads  
+- Shards - 607267 downloads  
+- Particle Blocker - 158083 downloads  
 - Rain Growth - 74555 downloads  
 - Chat Control - 48887 downloads  
-- Copyshot - 47641 downloads  
+- Copyshot - 47642 downloads  
 - No AutoJump - 13227 downloads  
 - Meteor Tweaks - 12465 downloads  
 - Frost Boater - 2508 downloads  
@@ -56,7 +56,7 @@ Rankings:
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2026-08-16 15:12 (UTC)
+Last Updated: 2026-08-16 16:14 (UTC)
 
 ## Contact
 - Email: `jackson@jacksonhickey.tech`
