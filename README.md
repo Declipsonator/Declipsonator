@@ -20,7 +20,6 @@
 - [GroundhogDayResults](https://github.com/Declipsonator/GroundhogDayResults) - All the groundhog day results ever
 - [Highschool Internships](https://github.com/Declipsonator/Highschool-Internships) - An auto-updating list of high school internships.
 - [mccrawler website](https://github.com/Declipsonator/mccrawler-website) - Website for searching minecraft servers from around the world.
-- [Meteor Tweaks](https://github.com/Declipsonator/Meteor-Tweaks) - A Meteor Client Addon that adds tweaks to modules and settings.
 - [neural network visualize](https://github.com/Declipsonator/neural-network-visualize) - Visualizing neural networks
 - [No AutoJump](https://github.com/Declipsonator/No-AutoJump) - Completely remove the autojump feature from Minecraft.
 - [Particle Blocker](https://github.com/Declipsonator/Particle-Blocker) - Minecraft mod with a gui to disable particles.
@@ -34,18 +33,17 @@
 
 
 # Total Downloads
-My mods have around 2521975 downloads. \
+My mods have around 2509526 downloads. \
 \
 Rankings:
-- Recipe Unlocker - 929220 downloads  
-- Global Datapacks - 623492 downloads  
-- Shards - 609610 downloads  
-- Particle Blocker - 158466 downloads  
-- Rain Growth - 74929 downloads  
+- Recipe Unlocker - 929230 downloads  
+- Global Datapacks - 623508 downloads  
+- Shards - 609620 downloads  
+- Particle Blocker - 158469 downloads  
+- Rain Growth - 74933 downloads  
 - Chat Control - 48941 downloads  
-- Copyshot - 47683 downloads  
+- Copyshot - 47684 downloads  
 - No AutoJump - 13280 downloads  
-- Meteor Tweaks - 12493 downloads  
 - Frost Boater - 2517 downloads  
 - Featurosity - 1344 downloads  
 
@@ -56,7 +54,7 @@ Rankings:
 
 # Me
 <img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2026-08-20 21:19 (UTC)
+Last Updated: 2026-08-20 22:17 (UTC)
 
 ## Contact
 - Email: `jackson@jacksonhickey.tech`
