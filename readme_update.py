@@ -109,7 +109,7 @@ def get_most_downloaded_string():
 total_downloads = 0
 
 total_downloads += get_github_downloads('jacksonhickey')
-total_downloads += get_modrinth_downloads('jacksonhickey')
+total_downloads += get_modrinth_downloads('declipsonator')
 total_downloads += get_curseforge_downloads(101367014)
 
 template = requests.get('https://raw.githubusercontent.com/jacksonhickey/jacksonhickey/main/template.md').text
