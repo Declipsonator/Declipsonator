@@ -1,10 +1,7 @@
-# Declipsonator
-- Code Enthusiast
-- Pretty good at Java and Python
-- Experimented with React, Html, C, C++
-- Minecraft Mod Developer
-- Open Source Believer
-- Gnu GPL/LGPL License person
+# Jackson Hickey
+- Open source developer
+- I specialize in Java/Python
+- Student at the University of Chicago
 - Profile Visits: <img src="https://c.andyhoppe.com/1649759421" style="border:none" alt="Counter"/>
 # Projects
 - [Chat Control](https://github.com/Declipsonator/Chat-Control) - Take back control of your server chat with filters and mutes.
@@ -32,13 +29,13 @@
 - [Useful Python Scripts](https://github.com/Declipsonator/Useful-Python-Scripts) - A collection of random python scripts I write to make my life easier.
 
 
-# Total Downloads
-My mods have around 2509895 downloads. \
+# Total Project Downloads
+My video game modifications have around 2509908 downloads. \
 \
 Rankings:
 - Recipe Unlocker - 929303 downloads  
-- Global Datapacks - 623642 downloads  
-- Shards - 609740 downloads  
+- Global Datapacks - 623648 downloads  
+- Shards - 609747 downloads  
 - Particle Blocker - 158495 downloads  
 - Rain Growth - 74946 downloads  
 - Chat Control - 48943 downloads  
@@ -48,13 +45,9 @@ Rankings:
 - Featurosity - 1344 downloads  
 
 
-### Check Out my Mods:
+### Check Out my Published Work:
 [Modrinth](https://www.curseforge.com/members/declipsonator/projects)\
 [Curseforge](https://www.curseforge.com/members/declipsonator/projects)
 
-# Me
-<img align="center" src="/github-metrics.svg" alt="Metrics">
-Last Updated: 2026-08-21 03:42 (UTC)
-
 ## Contact
-- Email: `jackson@jacksonhickey.tech`
+- Email: `jacksonhickey0@gmail.com`
