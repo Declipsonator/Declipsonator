@@ -113,8 +113,18 @@ total_downloads += get_modrinth_downloads('Declipsonator')
 total_downloads += get_curseforge_downloads(101367014)
 
 template = requests.get('https://raw.githubusercontent.com/Declipsonator/Declipsonator/main/template.md').text
-
-template = template.replace('{downloads}', str(total_downloads)) \
+downloads_list = list(str(total_downloads))
+if len(downloads_list) > 3:
+    threes = int(len(downloads_list) / 3)
+    start = len(downloads_list) - threes * 3
+    full_string = ""
+    for i in range(0, start):
+        full_string += downloads_list[i]
+    for i in range(start, len(downloads_list)):
+        if (i - start) % 3 == 0:
+            full_string += ","
+        full_string += downloads_list[i]
+template = template.replace('{downloads}', str(full_string)) \
     .replace('{projects}', get_github_projects_string(saved_projects, 'Declipsonator')) \
     .replace('{last_updated}', datetime.utcnow().strftime('%Y-%m-%d %H:%M (UTC)')) \
     .replace('{rankings}', get_most_downloaded_string())
