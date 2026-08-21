@@ -108,11 +108,11 @@ def get_most_downloaded_string():
 
 total_downloads = 0
 
-total_downloads += get_github_downloads('Declipsonator')
-total_downloads += get_modrinth_downloads('Declipsonator')
+total_downloads += get_github_downloads('jacksonhickey')
+total_downloads += get_modrinth_downloads('jacksonhickey')
 total_downloads += get_curseforge_downloads(101367014)
 
-template = requests.get('https://raw.githubusercontent.com/Declipsonator/Declipsonator/main/template.md').text
+template = requests.get('https://raw.githubusercontent.com/jacksonhickey/jacksonhickey/main/template.md').text
 downloads_list = list(str(total_downloads))
 if len(downloads_list) > 3:
     threes = int(len(downloads_list) / 3)
@@ -125,7 +125,7 @@ if len(downloads_list) > 3:
             full_string += ","
         full_string += downloads_list[i]
 template = template.replace('{downloads}', str(full_string)) \
-    .replace('{projects}', get_github_projects_string(saved_projects, 'Declipsonator')) \
+    .replace('{projects}', get_github_projects_string(saved_projects, 'jacksonhickey')) \
     .replace('{last_updated}', datetime.utcnow().strftime('%Y-%m-%d %H:%M (UTC)')) \
     .replace('{rankings}', get_most_downloaded_string())
 
